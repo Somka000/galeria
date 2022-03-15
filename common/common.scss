@@ -5,9 +5,8 @@ html.homepage-featured-topics {
 }
 
 .featured-topic-wrapper {
-  margin-bottom: 3em;
   text-align: center;
-  border-bottom: 1px solid $primary-low;
+  border-image: url("https://i.imgur.com/NxmUcEz.jpg")
   position: relative;
 
   .spinner {
@@ -25,7 +24,9 @@ html.homepage-featured-topics {
     margin-top: 1em;
   }
   h2 {
-    border-image: url("https://i.imgur.com/NxmUcEz.jpg")
+    border-bottom: 1px solid $primary-low;
+    padding-bottom: 0.5em;
+    margin-bottom: 1.5em;
   }
   .featured-topics {
     display: flex;

@@ -7,7 +7,7 @@ html.homepage-featured-topics {
 .featured-topic-wrapper {
   margin-bottom: 3em;
   text-align: center;
-  border-bottom: 1px solid $primary-low;
+  border-bottom: 1px solid black;
   position: relative;
 
   .spinner {
@@ -106,7 +106,7 @@ html.homepage-featured-topics {
       }
       .featured-topic-image {
         height: 200px;
-        max-width: 450px;
+        max-width: 350px;
         width: 100%;
         background-size: cover;
         background-position: center center;

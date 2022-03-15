@@ -7,3 +7,4 @@ This is a theme component that features topics on your [Discourse](discourse.org
 By default the theme will feature the 3 most recent topics tagged featured and will pull in the first image from the topic. In the settings you can choose a custom tag, hide the tag, set a custom title, and configure where the component appears.
 
 [Read more on our Meta community.](https://meta.discourse.org/t/homepage-feature-component/144264)
+t
